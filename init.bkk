@@ -1,0 +1,9 @@
+require("zaxxin.core")
+require("zaxxin.lazy")
+
+--[[
+Nvim Configurations
+--]]
+vim.wo.relativenumber = true
+vim.wo.number = true
+

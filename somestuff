@@ -1,0 +1,7 @@
+Some really helpful nvim docs
+	- :help options -- display options (very nice), global variables and stuff like that.
+
+Commands I write her for fun
+	- setlocal to set options local to a buffer
+	Ex. setlocal shiftwidth =4 --very nice :D
+
